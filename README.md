@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RoboTaskNet SDK
 
 Workable JavaScript SDK for the RoboTaskNet project. It simulates the protocol today and provides clear extension points to integrate real smart contracts and wallets later.
@@ -219,3 +220,6 @@ const sdk = new RoboTaskNetSDK({ signer });
 - Hashing uses a deterministic placeholder (djb2) to keep the SDK dependency-free. Replace for production.
 - Events are best-effort simulation to match expected lifecycle.
 - All methods return Promises for easier future swap to async RPC calls.
+=======
+# RoboTask-SDK
+>>>>>>> cc8a28b0fc000a7bf8f06897cb6e5547a343432e
