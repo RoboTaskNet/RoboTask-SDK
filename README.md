@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+CA : ChD2DT8AvCh4Wq4DYZkZ4dsbCvtGgZydYhYN7H57pump
 # RoboTaskNet SDK
 
 Workable JavaScript SDK for the RoboTaskNet project. It simulates the protocol today and provides clear extension points to integrate real smart contracts and wallets later.
